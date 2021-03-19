@@ -18,14 +18,15 @@ install and you are good to go.
 
 You can download the tool using this [LINK](https://bit.ly/3vRbw54).
 
-Just download the zip file, extract and install.
+Just download the rar file, extract and install.
 Client apk file for android is provided as well.
 Prerequisite: .Net Framework 4.7.2
 
 First things first, to set up the preshared key, go to settings
 and fill up the local keypass with your desired key.
 This key will be used upon connecting to this installation.
-[![N|Solid](https://i.ibb.co/HzsmhJB/image.png)]
+
+![N|Solid](https://i.ibb.co/HzsmhJB/image.png)
 
 ## Screens
 ![N|Solid](https://i.ibb.co/yYztbTw/image.png)
