@@ -37,5 +37,5 @@ This key will be used upon connecting to this installation.
 
 **Free Software, Hell Yeah!**
 
-Author: Jeric M. Dacara
-found bugs? Open an issue or email me at [dacarajeric@gmail.com](mail:dacarajeric@gmail.com).
+- Author: Jeric M. Dacara
+- found bugs? Open an issue or email me at [dacarajeric@gmail.com](mail:dacarajeric@gmail.com).
