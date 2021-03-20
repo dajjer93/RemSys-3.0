@@ -8,7 +8,7 @@ install and you are good to go.
 ## Features
 
 - Create, save, delete commands.
-- Send commands remotely.
+- Send shell commands, send remote command prompt, access third party programs.
 - Retrieve results from remote windows installation.
 - Secure/encrypted data transmission using preshared key.
 - Run on windows startup.
@@ -20,9 +20,10 @@ You can download the tool using this [LINK](https://bit.ly/3vRbw54).
 
 Just download the rar file, extract and install.
 Client apk file for android is provided as well.
+
 Prerequisite: .Net Framework 4.7.2
 
-First things first, to set up the preshared key, go to settings
+To set up the preshared key, go to settings
 and fill up the local keypass with your desired key.
 This key will be used upon connecting to this installation.
 
